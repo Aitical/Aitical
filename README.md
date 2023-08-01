@@ -8,7 +8,12 @@
 ### Research
 - A Practical Contrastive Learning Framework for Single-Image Super-Resolution [IEEE Transactions on Neural Networks and Learning Systems]
 
-- Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution [arXiv preprint arXiv:2303.14324]
+- Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution [arXiv preprint arXiv:2303.14324
+        
+        ]
+- Fully 1x1 Convolutional Network for Lightweight Image Super-Resolution [arXiv preprint arXiv:2307.16140
+        
+        ]
 
 - GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting [CVPRW'22]
 
