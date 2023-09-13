@@ -1,11 +1,12 @@
 
 ### Hi there 👋
-- 🏫 I’m currently a 3rd-year Ph.D. student at Harbin Institute of Technology. Supervised by Prof. [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
-- 📔 I’m working on low-level vision problems, and Representation Learning.
+- 🏫 I’m currently a 4th-year Ph.D. student at Harbin Institute of Technology. Supervised by Prof. [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
+- 📔 I’m working on low-level vision problems, and representation learning.
 
 
 
 ### Research
+- 🔥 Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration [arXiv preprint](https://arxiv.org/abs/2309.06023)
 - A Practical Contrastive Learning Framework for Single-Image Super-Resolution [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/10176303/)
 - Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution [arXiv preprint](https://arxiv.org/abs/2303.14324)
 - Fully 1x1 Convolutional Network for Lightweight Image Super-Resolution [arXiv preprint](https://arxiv.org/abs/2307.16140)
