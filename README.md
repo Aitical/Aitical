@@ -15,7 +15,7 @@
 - GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting [CVPRW'22](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Lu_GLaMa_Joint_Spatial_and_Frequency_Loss_for_General_Image_Inpainting_CVPRW_2022_paper.pdf)
 
 - No One Idles: Efficient Heterogeneous Federated Learning with Parallel Edge and Server Computation [ICML'23](https://openreview.net/forum?id=AMuNQEUmGr)
-
+- Zero-Mean Regularized Spectral Contrastive Learning [ICLR'24]()
 ## Award
 ICRA`23: RoboDepth: Robust Out-of-Distribution Depth Estimation, the **3rd** in Track1, **Innovative Prize** in Track 2 [Report](https://arxiv.org/abs/2307.15061)
 
