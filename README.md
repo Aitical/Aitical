@@ -7,6 +7,7 @@
 [![WeChat](http://img.shields.io/badge/WeChat-w965813422-72E51C.svg)](#)
 
 ### Research
+- Harmony in Diversity: Improving All-in-One Image Restoration via Multi-Task Collaboration [ACM MM 24]()
 - 🚀 Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration [AAAI`24](https://arxiv.org/abs/2309.06023)
 - A Practical Contrastive Learning Framework for Single-Image Super-Resolution [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/10176303/)
 - Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution [arXiv preprint](https://arxiv.org/abs/2303.14324)
