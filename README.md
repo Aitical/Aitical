@@ -7,7 +7,9 @@
 [![WeChat](http://img.shields.io/badge/WeChat-w965813422-72E51C.svg)](#)
 
 ### Research
-- Debiased All-in-One Image Restoration with Task Uncertainty Regularization _Under Reviewing_
+- Learning Dynamic Prompts for All-in-One Image Restoration _Under Review_
+- DSwinIR: Learning a Deformable Sliding Window Transformer for Image Restoration _Under Review_
+- Debiased All-in-One Image Restoration with Task Uncertainty Regularization [AAAI 25]()
 - Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach [IEEE Transactions on Image Processing](https://arxiv.org/abs/2401.05633)
 - Harmony in Diversity: Improving All-in-One Image Restoration via Multi-Task Collaboration [ACM MM 24](https://openreview.net/pdf/bd905d32bafba27ad28e3e8a029a608e355b1dfb.pdf)
 - 🚀 Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration [AAAI`24](https://arxiv.org/abs/2309.06023)
