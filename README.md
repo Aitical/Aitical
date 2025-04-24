@@ -26,18 +26,10 @@
 - Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training [ECCV`24](https://eccv.ecva.net/virtual/2024/poster/625)
   
 ## Award
-ICRA`23: RoboDepth: Robust Out-of-Distribution Depth Estimation, the **3rd** in Track1, **Innovative Prize** in Track 2 [Report](https://arxiv.org/abs/2307.15061)
+- ICRA'23: RoboDepth: Robust Out-of-Distribution Depth Estimation, the **3rd** in Track1, **Innovative Prize** in Track 2 [Report](https://arxiv.org/abs/2307.15061)
+- CVPR'22: NTIRE 2022 Image Inpainting Challenge, the **2nd** in Track 1  [Report](https://arxiv.org/abs/2205.07162)
 
 ### Academic Services
-- Conference Reviewer
-  - ICML 2022
-  - ICASSP 2022, 2023, 2024
-  - ICME 2022, 2023, 2024
-  - ICLR 2024
+- Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR
     
-- Journal Reviewer
-  - TNNLS
-  - TMM
-  - TIP
-  - TCSVT
-  - Information Fusion
+- Journal Reviewer: TPAMI, TIP, TNNLS, TMM, TCSVT, Information Fusion
