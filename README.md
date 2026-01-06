@@ -3,9 +3,6 @@
 - 🏫 I’m currently a 4th-year Ph.D. student at Harbin Institute of Technology. Supervised by Prof. [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
 - 📔 I’m working on low-level vision problems, and representation learning.
 
-[![Hits](https://hits.sh/github.com/Aitical/Aitical.svg)](https://hits.sh/github.com/Aitical/Aitical/)
-[![WeChat](http://img.shields.io/badge/WeChat-w965813422-72E51C.svg)](#)
-
 ### Research
 - DSwinIR: Learning a Deformable Sliding Window Transformer for Image Restoration _Under Review_
 - Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration _Under Review_
